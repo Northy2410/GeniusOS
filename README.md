@@ -1,7 +1,7 @@
 # GeniusOS
 © NorthTech UK and AmberCo.
 
-Base code (Debian): © Progeny Linux Systems  
+Base code (Unix): © The Open Group  
 
 Illegal distribution, plagiarism or any other form of unauthorised use strictly prohibited.  
 
